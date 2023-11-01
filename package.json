@@ -54,7 +54,7 @@
     "zustand": "^4.3.9"
   },
   "engines": {
-    "node": ">=14 "
+    "node": ">=14 <20"
   },
   "devDependencies": {
     "prisma": "^5.0.0"
